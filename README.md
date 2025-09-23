@@ -23,7 +23,7 @@ Key Features:
 - Responsive front-end with **HTML, CSS, and JavaScript**.  
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=seore&show_icons=true&theme=tokyonight)  
 
 ## 📫 Get in Touch  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seore-soyannwo/)
