@@ -27,5 +27,5 @@ Key Features:
 
 ## 📫 Get in Touch  
 - 💼 [LinkedIn](https://www.linkedin.com/in/seore-soyannwo/)
-- 🌐 [Portfolio](www.seoresoyannwoportfolio.com)  
+- 🌐 [Portfolio](https://www.seoresoyannwoportfolio.com)  
 
