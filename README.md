@@ -1,42 +1,58 @@
-# Hi, I'm Seore Soyannwo 👋
+# Hey there! 👋  
 
-I'm an early-career developer based in London who enjoys building **practical web applications** – from expense tracking tools to payment systems and interactive portfolios.
+I’m **Seore** — a developer, artist, and photographer based in **London**.  
 
-I like working across the stack: **Java / Spring Boot + Python** on the backend and **HTML, CSS, JavaScript, and React** on the frontend.
+I love building things—web apps, games, little tools, and whatever random idea pops into my head.  
+If I can imagine it, I’ll probably try to make it 😄  
 
----
+I’m currently focused on **web development**, **machine learning**, **Pygame development**, and **Unity game development**.  
 
-## 🔧 Tech Stack
 
-**Backend**
-- Java · Spring Boot · Python  
-- REST APIs · JSON · Authentication (JWT / OAuth2)  
-- Maven (POM), JUnit, Postman
+## 🔧 My Main Tech Stack
 
-**Frontend**
-- HTML5 · CSS3 · JavaScript  
-- Bootstrap · React
+- HTML / CSS / JavaScript  
+- Python / Pygane
+- Java / Spring Boot  
+- Unity (C#)  
+- Bootstrap
+- Flutter
+- Three.js  
 
-**Databases & Infra**
-- MySQL · PostgreSQL  
-- Docker · AWS (basic deployment)  
+…and I’m always learning new tools, frameworks, and technologies.
 
-**Tools**
-- Git & GitHub · VS Code · IntelliJ  
-- GitHub Projects / Issues
 
----
+## 🚀 Highlight Projects
 
-## 📊 GitHub Activity
+Here are a few of my favorites:
 
-<!-- You can keep your existing stats card here if you like -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seore&show_icons=true&theme=default)
+- **Expense Tracker Web App**
+- **Payment System Web App**
+- **My Portfolio Website**
+- **Phantom Trails – 3D adventure game**
 
----
+Most of my projects start because I get curious about something—and then somehow it turns into a full thing 😂  
 
-## 📬 Get in Touch
 
-- Portfolio: [seoresoyannwoportfolio.com](https://seoresoyannwoportfolio.com)  
-- LinkedIn: [linkedin.com/in/seore-soyannwo](https://www.linkedin.com/in/seore-soyannwo)
+## 🎨 Fun Facts
 
-💼 **Open to**: internships / junior roles in **backend** or **full-stack web development**.
+- I’m 23
+- I’m an artist + photographer  
+- I love anime  
+- Hobbies: gaming, photography, building things, exploring creative ideas  
+
+
+## 👀 Currently Looking For
+
+- Internships  
+- Junior Developer roles  
+- Web / Backend roles  
+- Creative technical roles  
+
+If you want to talk opportunities or cool ideas, definitely reach out ✨
+
+
+## 🌐 Links
+
+Portfolio: https://seoresoyannwoportfolio.com  
+GitHub: https://github.com/seore  
+LinkedIn: https://linkedin.com/in/seore-soyannwo
