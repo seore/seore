@@ -1,6 +1,6 @@
 # Hey there! 👋  
 
-I’m **Seore** — a developer, artist, and photographer based in **London**.  
+I’m **Seore** — a developer, artist, gamer and photographer based in **London**.  
 
 I love building things—web apps, games, little tools, and whatever random idea pops into my head.  
 If I can imagine it, I’ll probably try to make it 😄  
@@ -20,19 +20,6 @@ I’m currently focused on **web development**, **machine learning**, **Pygame d
 
 …and I’m always learning new tools, frameworks, and technologies.
 
-
-## 🚀 Highlight Projects
-
-Here are a few of my favorites:
-
-- **Expense Tracker Web App**
-- **Payment System Web App**
-- **My Portfolio Website**
-- **Phantom Trails – 3D adventure game**
-
-Most of my projects start because I get curious about something—and then somehow it turns into a full thing 😂  
-
-
 ## 🎨 Fun Facts
 
 - I’m 23
@@ -43,13 +30,9 @@ Most of my projects start because I get curious about something—and then someh
 
 ## 👀 Currently Looking For
 
-- Internships  
-- Junior Developer roles  
-- Web / Backend roles  
-- Creative technical roles  
+- Internships, Junior Developer roles, Web / Backend roles and Creative technical roles  
 
 If you want to talk opportunities or cool ideas, definitely reach out ✨
-
 
 ## 🌐 Links
 
