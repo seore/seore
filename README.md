@@ -20,20 +20,20 @@
 
 ---
 
-### 👋 About me
+### About me
 
 ```js
 const seore = {
-  location:   "London, UK 🇬🇧",
+  location:   "London, UK",
   role:       "Full-stack developer · founder · artist",
   building:   ["iOS apps", "web platforms", "AI tools", "games"],
   shipped:    "PAL Aid — first aid app, live on the App Store",
   lookingFor: ["Internships", "Junior dev roles", "Creative technical roles"],
-  funFact:    "If I can imagine it, I'll probably try to make it 😄",
+  funFact:    "If I can imagine it, I'll probably try to make it.",
 };
 ```
 
-### 🛠️ Tech stack
+### Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@ const seore = {
   </a>
 </p>
 
-### 🚀 What I'm building
+### What I'm building
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -54,7 +54,7 @@ const seore = {
 | 🎙️ **[Orion](https://github.com/seore/orion-personalAssistant)** | Modular voice assistant with Spotify control + Electron UI | Python |
 | 🎬 **[Movie Recommender](https://github.com/seore/movie-recommender)** | Hybrid content + collaborative filtering | Python / ML |
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=seore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=E100FF&count_private=true" />
@@ -69,7 +69,7 @@ const seore = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seore&bg_color=0d1117&color=C084FC&line=E100FF&point=ffffff&area=true&hide_border=true" />
 </p>
 
-### 🐍 Contribution snake
+### Contribution snake
 
 <p align="center">
   <picture>
@@ -79,7 +79,7 @@ const seore = {
   </picture>
 </p>
 
-### 🎨 Off the keyboard
+### Off the keyboard
 
 Mixed-media canvas art · photography · anime · gaming · streetwear under **[EROESMERAKI](https://www.eroesmeraki.com)**
 
