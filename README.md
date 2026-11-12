@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Seore Soyannwo — developer, artist, founder" />
+  <img src="./header.svg" width="100%" alt="Seore Soyannwo — developer, artist, founder" />
 </p>
 
 <p align="center">
