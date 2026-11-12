@@ -28,12 +28,12 @@ I'm a full-stack developer in London who takes ideas all the way from a sketch t
 ## 🚀 What I'm building
 
 <p align="center">
-  <a href="https://palaid.app"><img src="./assets/pal-aid.svg" width="49%" /></a>
-  <img src="./assets/griot.svg" width="49%" />
-  <img src="./assets/lagos-market-hustle.svg" width="49%" />
-  <a href="https://github.com/seore/SDG-App"><img src="./assets/sdg-app.svg" width="49%" /></a>
-  <a href="https://github.com/seore/orion-personalAssistant"><img src="./assets/orion.svg" width="49%" /></a>
-  <a href="https://github.com/seore/movie-recommender"><img src="./assets/movie-recommender.svg" width="49%" /></a>
+  <a href="https://palaid.app"><img src="./pal-aid.svg" width="49%" /></a>
+  <img src="./griot.svg" width="49%" />
+  <img src="./lagos-market-hustle.svg" width="49%" />
+  <a href="https://github.com/seore/SDG-App"><img src="./sdg-app.svg" width="49%" /></a>
+  <a href="https://github.com/seore/orion-personalAssistant"><img src="./orion.svg" width="49%" /></a>
+  <a href="https://github.com/seore/movie-recommender"><img src="./movie-recommender.svg" width="49%" /></a>
 </p>
 
 <br/>
@@ -53,5 +53,5 @@ I'm a full-stack developer in London who takes ideas all the way from a sketch t
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" />
+  <img src="./footer.svg" width="100%" />
 </p>
