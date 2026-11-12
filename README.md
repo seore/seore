@@ -15,7 +15,7 @@ I'm a full-stack developer in London who takes ideas all the way from a sketch t
 
 <br/>
 
-## ⚡ Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,spring&perline=9" />
@@ -25,7 +25,7 @@ I'm a full-stack developer in London who takes ideas all the way from a sketch t
 
 <br/>
 
-## 🚀 What I'm building
+## What I'm building
 
 <p align="center">
   <a href="https://palaid.app"><img src="./pal-aid.svg" width="49%" /></a>
@@ -38,7 +38,7 @@ I'm a full-stack developer in London who takes ideas all the way from a sketch t
 
 <br/>
 
-## 📈 Activity
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seore&theme=github-dark-blue&hide_border=true&background=161b22&ring=C084FC&fire=E100FF&currStreakLabel=C084FC&sideNums=f0f6fc&currStreakNum=f0f6fc&sideLabels=9da7b3&dates=6e7681&border_radius=16" width="70%" />
